@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: process.env.TOKEN,
   CLIENT_SECRET: process.env.CLIENT_SECRET,
   DATABASE: process.env.DATABASE,
-  CLIENT_ID: "827239304022589510",
+  CLIENT_ID: "1003887809305780225",
   API_URL: "https://predator-vip.sa.com",
   GUILD_ID: "989653975571791873",
   ROLE_ID: "992199407967678464",
